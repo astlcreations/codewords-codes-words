@@ -1,2 +1,2 @@
-#Week 1
-##The Beginning of craziness
+# Week 1 - Oh Boy into the Craziness
+## An introduction into the course of "Codewords=Codes+Words"
