@@ -1,4 +1,4 @@
-## Week #2: Modular Typefaces and Scary GitHub
+# Week #2: Modular Typefaces and Scary GitHub
 
 Today was another day of exploring ideas and being introduced to new slightly confusing programs. In the morning we spent some time exploring Modular typefaces from other designers as possible inspiration for our final FINAL projects. I ended up finding this one by a Canadian designer called Marian Bantjes which she designed for her own documentary credit sequence. Essentially, I love how its slightly animated and as the different people are being credited the words change slightly while the structure is still beautifully stagnant. Bantjes’s work reminds me of a quilted blanket which is a big inspiration as I would love to explore mediums within the project that aren’t just digital. 
 
