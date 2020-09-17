@@ -1,4 +1,4 @@
-# !Welcome to Codwords!
+# !Welcome to Codewords!
 
 <img src="codewordsgif.GIF">
 
