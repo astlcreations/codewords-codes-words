@@ -5,7 +5,11 @@ During this break I have been focusing on making some paper-prototypes and explo
   
 With this section I made a few prototypes for what could work really well for this. When reading it initially I really wanted to show off the graffiti aspect of Hellraiser. This first one utilised a brick wall made from the words and then as the user interacts with their mouse it creates a spray paint effect to replace the words with “I’m alive.” Leaning into the permanence that both spray painting and viruses can provide in our modern-day world. A balance of art and technology.
 
+<img src="prototype #1.gif">
+
 For the second prototype I focused on the spreading a virus operates under and that as a permanence. So the words are set out like an urban environment, buildings along a skyline while some of the key words in the section are overlapped and appear almost infected. When the user clicks on the words the colours of the other words begin to change colours and also become infected and changed. Following that similar concept of making yourself live forever and ever.   
+
+<img src="prototype #2.gif">
 
 I have also been working on making my GitHub all fancy and up to date, which has taken up a good chunk of this time. I’m super happy with how its looking and that I’ve actually taken the time reflect on the first half of this studio rather than leaving it all to the end. We have explored some awesome topics and I’m excited to apply these to my own major project in a cool and fancy way. 
 
