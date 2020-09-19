@@ -4,7 +4,6 @@ This week coming back from the break started with us sharing around our paper pr
 
 In the afternoon we continued with some more coding practice, with this time exploring audio and how it can affect the shapes/other elements of the project. This was definitely confusing at first but super interesting to learn about as it inspired me for another idea regarding my major project (but ill share that next week!). After class I played with the code Karen made with us and turned it into my own little creation. I found an audio file of church bells I recorded when I was on a trip in England years ago, so the project was inspired by the loudness of those bells. I also played with shapes too but I’m super happy with how it turned out and I can wait to use some audio of my own in my final project.   
 
-<img src="Coding w7.png">
 <img src="thebells.gif">
 
 
