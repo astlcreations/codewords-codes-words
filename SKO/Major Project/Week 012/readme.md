@@ -17,7 +17,7 @@ This week was the big week, where all the blood, sweat, tears and ultimate confu
 -
 -
 **AND NOW
-! DRUM ROLL PLEASE !
+:drum: DRUM ROLL PLEASE :drum:
 -
 -
 -
@@ -29,7 +29,7 @@ This week was the big week, where all the blood, sweat, tears and ultimate confu
 -
 -
 
-## Wilds of the Internet ##
+## :sparkles: Wilds of the Internet :sparkles: ##
 
 [Wilds of the Internet](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Presentation/MainProject_FIREFLIESW12Presentation/)
 
