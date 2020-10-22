@@ -7,5 +7,5 @@ Taking a step back from them, I found a really cool design from a Raven Kwok whi
 
 <img src="inspobrush.gif">
 
-## [Check it out here!] (https://www.openprocessing.org/sketch/143842) ## 
+[~ Check it out Here ~](https://www.openprocessing.org/sketch/143842)
 
