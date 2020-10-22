@@ -4,9 +4,9 @@ This morning we explored the wonderful world that is electronic literature! This
 
 <img src="electroniclit.png">
 
-## [~ Evie Bot ~](https://www.eviebot.com/en/)
+[Evie Bot](https://www.eviebot.com/en/)
 
-## [~ Daft Punk Live Coding ~](https://www.youtube.com/watch?v=cydH_JAgSfg&feature=emb_logo&ab_channel=mxs)
+[Daft Punk Live Coding](https://www.youtube.com/watch?v=cydH_JAgSfg&feature=emb_logo&ab_channel=mxs)
 
 ### (---------------------------------------------------------------) ###
 
