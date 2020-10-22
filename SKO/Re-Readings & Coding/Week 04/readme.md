@@ -10,3 +10,6 @@ For the rest of the week my group and I spent most of our time working on the Re
 
 <img src="minecraft-biomes.png">
 
+
+
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2003/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2005/) :star: ------------>
