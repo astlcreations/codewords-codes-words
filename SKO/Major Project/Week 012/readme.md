@@ -41,3 +41,7 @@ This week was the big week, where all the blood, sweat, tears and ultimate confu
 
 So overall, I’m so proud of this! When I initially finished it, I kept feeling like I could do more or have a better project but that’s definitely not how I feel now. It’s not the most technical piece in the world and that’s okay! This project is still my baby and I love it very much. 
 
+
+
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20011/) :star: [**Final Reflection**](https://astlcreations.github.io/codewords-codes-words/SKO/Final%20Reflection/) :star: ------------>
+
