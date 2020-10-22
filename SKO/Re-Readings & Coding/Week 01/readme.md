@@ -16,3 +16,6 @@ We went exploring around Melbourne in COVID-19 style, through a Minecraft world 
 Then it was for the very daunting part, LEARNING HOW TO CODE. It’s something I have wanted to learn for ages to incorporate into my design projects. I was very nervous and excited because it was actually some dedicated time for me to practice my skills. Karen took us through some basics with a program called processing which uses a language called “p5.js”. We were focusing on basic shapes, colours commands and just generally learning the language so we could create our initials with the program. I loved doing this because I realised it’s not as scary as I imagined and there are so many cool possibilities for me to discover!
 
 <img src="class 1 coding.png">
+
+
+:star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2002/) :star: ------------>
