@@ -18,4 +18,4 @@ Then it was for the very daunting part, LEARNING HOW TO CODE. It’s something I
 <img src="class 1 coding.png">
 
 
-:star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2002/) :star: ------------>
+[**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2002/) ------------>
