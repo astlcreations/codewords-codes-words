@@ -4,7 +4,9 @@ This morning was our whole class shared their big ideas for their projects. This
 
 <img src="jungle web idea.GIF">
 
-To finish off the day we did even more coding which involved us being introduced to “classes”. Even reflecting on this after I’m still a little bit confused about what they are but to learn even more I’m going to explain my understanding. So basically “classes” are a pre-set template for objects, details or information. If I wanted to say (for example we were working with in class) “hey, words! Jiggle when you come on screen!” a class can set that up so that you don’t have do a separate set up every time. Again, its super complicated to my design brain, but very cool indeed. I love how the wiggly letters turned out regardless and depending on how my own project goes I could use a similar technique. 
+### (---------------------------------------------------------------) ###
+
+To finish off the day we did even more coding which involved us being introduced to “classes”. Even reflecting on this after I’m still a little bit confused about what they are but to learn even more I’m going to explain my understanding. So basically **“classes”** are a pre-set template for objects, details or information. If I wanted to say (for example we were working with in class) *“hey, words! Jiggle when you come on screen!”* a class can set that up so that you don’t have do a separate set up every time. Again, its super complicated to my design brain, but very cool indeed. I love how the wiggly letters turned out regardless and depending on how my own project goes I could use a similar technique. 
 
 <img src="sup pewdiepie.gif">
 <img src="letters wiggle.gif">
