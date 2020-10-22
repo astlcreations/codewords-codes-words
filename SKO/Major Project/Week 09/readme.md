@@ -11,3 +11,6 @@ Taking a step back from them, I found a really cool design from a Raven Kwok whi
 
 ## [~ Check it out Here ~](https://www.openprocessing.org/sketch/143842)
 
+
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2008/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20010/) :star: ------------>
+
