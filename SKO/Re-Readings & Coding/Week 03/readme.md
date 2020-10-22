@@ -31,3 +31,8 @@ For the rest of the day we were working in our groups for the Re-Readings projec
 <img src="minecraft-drafts.png">
 
 
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2002/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2004/) :star: ------------>
+
+
+
+
