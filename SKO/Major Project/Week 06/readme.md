@@ -34,4 +34,7 @@ For the afternoon we again did some more coding but with large chunks of text in
 <img src="coding w6 2.png">
 
 
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2005/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2007.5%20-%20Mid%20Sem%20Break/) :star: ------------>
+
+
 
