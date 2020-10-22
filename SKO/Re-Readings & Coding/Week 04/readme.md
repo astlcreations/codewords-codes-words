@@ -4,6 +4,8 @@ This week in class we spent the day coding in processing, YAY! Which isn’t sar
 
 <img src="coding w3 1.png"> <img src="coding w3 2.png">
 
+### (---------------------------------------------------------------) ###
+
 For the rest of the week my group and I spent most of our time working on the Re-Readings video. This ended up being a tougher task than we expected because we had probably the most technical difficulties you could imagine! We spent most our time trying to sort that out that we ended up doing all the recording and editing in less than 24 hours!! But regardless of all of that I’m super proud of us and what we achieved. The video turned out really well creating a melancholy interpretation of the section which helped give some variation from it being a horror genre. The world in Minecraft that we used incorporated some awesome biomes such as the ocean, nether and ice biomes. We wanted the world to take major focus as well as the animals and NPCs (Non-Playable Characters) since it is such a big thing in Minecraft. This project was super fun and I loved having the chance to get back into a game that I love so much.   
 
 <img src="minecraft-biomes.png">
