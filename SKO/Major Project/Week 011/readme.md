@@ -11,5 +11,5 @@ Getting some feedback from both the design and technical side of the project, wa
 
 After a little break after class and taking the feedback into consideration I got straight onto making the class for the fireflies. My initial plan was for the fireflies to wiggle and move similar to the skills we were learning about in Week #8, along with adding a fading in and out effect to make them feel really realistic. However, that’s not exactly what happened. I encountered another “happy accident” and it seemed to make the fading in and out pulsate that is affected by the placement of the mouse aka the speed changes. I then played with making the shapes change size, along with making it create more than one at a time. I’m really happy with the firefly effect and I feel like I’ve made a huge step this week with my project. 
 
-<img src="feedback-boi.gif">
+<img src="week-11gif">
 
