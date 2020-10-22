@@ -4,9 +4,14 @@ So today was the first day into the lovely studio that is “Codewords = Codes +
 
 <img src="presse.png">
 
+
+### (---------------------------------------------------------------) ###
+
 We went exploring around Melbourne in COVID-19 style, through a Minecraft world of the Melbourne CBD. I haven’t played Minecraft in forever so it was awesome to get back into and explore some ideas that could be awesome for the Re-Readings project. But as we were doing this we were chatting about Hyper textuality and how other designers/artists have used it such as other video games to recreate literature or media. In particular using Call of Duty to recreate a scene from F.R.I.E.N.D.S., which was so interesting to talk about in our ever-increasing digital world. 
 
 <img src="week_1_minecraft.jpg">
+
+### (---------------------------------------------------------------) ###
 
 Then it was for the very daunting part, LEARNING HOW TO CODE. It’s something I have wanted to learn for ages to incorporate into my design projects. I was very nervous and excited because it was actually some dedicated time for me to practice my skills. Karen took us through some basics with a program called processing which uses a language called “p5.js”. We were focusing on basic shapes, colours commands and just generally learning the language so we could create our initials with the program. I loved doing this because I realised it’s not as scary as I imagined and there are so many cool possibilities for me to discover!
 
