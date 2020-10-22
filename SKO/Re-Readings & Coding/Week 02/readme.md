@@ -8,17 +8,17 @@ Today was another day of exploring ideas and being introduced to new slightly co
 
 In the second half of the day we explored the wonderful exciting place that is GitHub!! Now at this point I thought I had some kind of idea what was happening but after exploring Github I got completely lost. I’m sure I just need to spend some more time getting acquainted with the program and how it works but I won’t lie in saying that I felt very out of my comfort zone. But that’s okay, I’m actually excited about that! Because it means I can actually work on something that is different than what I normally do, so get ready GitHub you’re going to have some amazing stuff happening from me! 
 
-## [~ "A" Initial ~](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%201/A_Initial/)
+["A" Initial](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%201/A_Initial/)
 <img src="A Intial.gif">
 
-## [~ "L" Initial ~](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%201/L_Initial/)
+["L" Initial](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%201/L_Initial/)
 <img src="L Initial.gif">
 
 And I got excited playing with the new coding program and created both my initials in a little web format. We all shared our initials and the were asked to remix another persons design so I took Taj's T and made it a funky 3D design. 
 
 ## [~ Taj's Original Code ~](https://tajhealy.github.io/CodeWords/week_01/ShapesT/)
 
-## [~ My Remix "T"](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%201/T_Remix/)
+[My Remix "T"](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%201/T_Remix/)
 <img src="t remix.gif">
 
 P.S. I got a little help from Seonghyeon Kim and his examples of 3D coding! So check that out **[HERE](https://p5js.org/examples/3d-geometries.html)
