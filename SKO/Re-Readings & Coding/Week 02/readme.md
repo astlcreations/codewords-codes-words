@@ -30,3 +30,6 @@ P.S. I got a little help from Seonghyeon Kim and his examples of 3D coding! So c
 
 We also finalised our groups for the Re-Readings project and what games we would be working with. The goal is to recreate a section of the text “House of Leaves” using our video game of choice, for my group I was with Tom and Ziyun using Minecraft. I was super excited about the section we picked too which was Section 6 in the Navderson Report. The section focuses on the pets within the house and I’m excited to explore how that’s really the only presence of animals that the film focuses on within the report. Let’s see how it goes!
 
+
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2001/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2003/) :star: ------------>
+
