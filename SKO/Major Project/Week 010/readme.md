@@ -21,3 +21,6 @@ And also this little cutie website [~ Right Here ~](https://astlcreations.github
 
 
 
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2009/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20011/) :star: ------------>
+
+
