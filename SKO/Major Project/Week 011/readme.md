@@ -23,5 +23,5 @@ After a little break after class and taking the feedback into consideration I go
 
 
 
-<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20010/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20012/) :star: ------------>
+<------------ ✩✩✩ [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20010/) ✩✩✩ [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20012/) ✩✩✩ ------------>
 
