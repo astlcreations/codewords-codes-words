@@ -3,6 +3,8 @@ Over the week I began to work on some illustrations/wording for the gif idea (wh
 
 <img src="illustrations.png">
 
+### (---------------------------------------------------------------) ###
+
 Taking a step back from them, I found a really cool design from a Raven Kwok which inspired another way of adding that illustration without taking away from the typography (shown in the gif below!). I love how organic the “brush” is and would definitely reference the wild part that Dibbell talks about within the text. It seems achievable enough to create in my own way and since the code is done in java script, I am going to have to teach myself how to translate it to p5.js instead!
 
 <img src="inspobrush.gif">
