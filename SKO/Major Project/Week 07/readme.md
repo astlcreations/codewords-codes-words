@@ -2,7 +2,7 @@
 
 This week coming back from the break started with us sharing around our paper prototypes in little breakout groups. This was really nice to get some feedback on what I made over the break, I was still feeling a little bit stuck as to if these were really promoting the text in the right way. I really wanted to explore it in this project and after chatting about the idea with the breakout group I realised that I could push it a bit more. Mainly because I was focusing on the virus aspect of the text and forgetting about how Dibbel explores them in a positive way. So definitely for next week I would love to explore this in a deeper way to highlight the positives of why viruses are good for you.
 
-*Last Weeks Gif for Reference
+*Last Weeks Gif for Reference*
 
 <img src="prototype2.gif">
 
