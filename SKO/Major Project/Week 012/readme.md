@@ -16,7 +16,8 @@ This week was the big week, where all the blood, sweat, tears and ultimate confu
 -
 -
 -
-**AND NOW
+AND NOW
+
 :drum: DRUM ROLL PLEASE :drum:
 -
 -
