@@ -1,6 +1,6 @@
-# Welcome to my Codewords SKO
-
 <img src="codewordsgif.GIF">
+
+# Welcome to my Codewords SKO
 
 *A wonderful place where I (Amy Ledger) have been reflecting on 12 weeks worth of Awesome Coding Content*
 
