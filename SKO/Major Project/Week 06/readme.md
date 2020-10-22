@@ -7,22 +7,30 @@ For fun we also combined some games and I came up with a Street Fighter and Stre
 
 <img src="pp 2.png">
 
+### (---------------------------------------------------------------) ###
+
 We also practiced pseudo-code by creating a small version based on an everyday activity. I decided to do one based on cuddling my cat and I have to say, I enjoyed how much this sounds like a poem. I could imagine a whole poetry book with these types of code, but it was an eye opener to see the initial pre-code way to highlight what needs to be worked into the code itself. 
 
-*START
-IF cat is in vicinity 
-THEN pick cat up
+## *START
+## IF cat is in vicinity 
+## THEN pick cat up
+## *IF cat is happy
+## THEN stroke cat
+## ELSE 
+## IF cat is angry 
+## THEN put cat down immediately
+## ENDIF* 
 
-*IF cat is happy
-THEN stroke cat
-ELSE 
-IF cat is angry 
-THEN put cat down immediately
-ENDIF*
+### (---------------------------------------------------------------) ###
 
 For the afternoon we again did some more coding but with large chunks of text instead and overall it was cool reminder of how specific you need to be with the language sometimes. For instance, I copied and pasted a poem by Rupi Kaur from the internet the program didn’t like it because it used the wrong kind of quotation marks. CRAZY ANNOYING TO WORK OUT! But it was a cool mistake to know that you need to ensure the right kind of text is used in the system or it just won’t work, lots of playing around trying to work out what the problems are. Karen also showed us how to adjust the leading based on mouseX and mouseY which was a funky bit of interaction to explore for a site.
 
+[Randomly Placed Letters Code](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%206/week6_typeparagraph/)
+
 <img src="coding w6 1.png">
+
+[Magenta Code](https://astlcreations.github.io/codewords-codes-words/p5.js%20Coding%20Files/Week%206/paragraph__/)
+
 <img src="coding w6 2.png">
 
 
