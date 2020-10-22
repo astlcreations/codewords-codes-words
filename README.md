@@ -1,12 +1,10 @@
-# :cherry_blossom: Welcome to my Codewords SKO :cherry_blossom:
+# Welcome to my Codewords SKO
 
 ### (---------------------------------------------------------------) ###
 
 <img src="codewordsgif.GIF">
 
-:cherry_blossom:
 *A wonderful place where I have been reflecting on 12 weeks worth of Awesome Coding Content*
-:cherry_blossom:
 
 <img src="rereadingandcoding.png">
 
