@@ -44,5 +44,5 @@ So overall, I’m so proud of this! When I initially finished it, I kept feeling
 
 
 
-<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20011/) :star: [**Final Reflection**](https://astlcreations.github.io/codewords-codes-words/SKO/Final%20Reflection/) :star: ------------>
+<------------ ✩✩✩ [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20011/) ✩✩✩ [**Final Reflection**](https://astlcreations.github.io/codewords-codes-words/SKO/Final%20Reflection/) ✩✩✩ ------------>
 
