@@ -17,3 +17,6 @@ For the second half we began exploring all the different texts that we could wor
 <img src="bluetongues.jpg">
 
 <img src="Screen Shot 2020-10-22 at 4.32.00 pm.png">
+
+
+<------------ :star: [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2004/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2006/) :star: ------------>
