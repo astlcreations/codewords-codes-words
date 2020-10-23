@@ -5,6 +5,10 @@
 *A wonderful place where I (Amy Ledger) have been reflecting on 12 weeks worth of Awesome Coding Content*
 
 
+
+
+
+
 <img src="rereadingandcoding.png">
 
 ✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩
@@ -18,6 +22,12 @@
 [**Week #4:** Coding, Coding and MORE Coding](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2004/)
 
 [**Week #5:** Video Premier/Screening and Final FINAL Project](https://astlcreations.github.io/codewords-codes-words/SKO/Re-Readings%20&%20Coding/Week%2005/)
+
+
+
+
+
+
 
 <img src="majorproject.png">
 
@@ -38,11 +48,23 @@
 [**Week #11:** I See the Light! Or Maybe Some Fireflies](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20011/)
 
 
+
+
+
+
+
+
 <img src="finalpresentation.png">
 
 ✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩
 
 [**Week #12:** It’s Showtime Baby!](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%20012/)
+
+
+
+
+
+
 
 <img src="myreflection.png">
 
