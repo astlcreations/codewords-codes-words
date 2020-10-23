@@ -15,6 +15,6 @@ In the afternoon we continued with some more coding practice, with this time exp
 <img src="thebells.gif">
 
 
-<------------ ✩✩✩ [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2007.5%20-%20Mid%20Sem%20Break/) :star: [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2008/) ✩✩✩ ------------>
+<------------ ✩✩✩ [**Previous Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2007.5%20-%20Mid%20Sem%20Break/) ✩✩✩ [**Next Week**](https://astlcreations.github.io/codewords-codes-words/SKO/Major%20Project/Week%2008/) ✩✩✩ ------------>
 
 
