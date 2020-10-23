@@ -2,9 +2,9 @@
 
 # WELCOME TO MY CODEWORDS SKO
 
-*A wonderful place where I (Amy Ledger) have been reflecting on 12 weeks worth of Awesome Coding Content*
+**A wonderful place where I (Amy Ledger) have been reflecting on 12 weeks worth of Awesome Coding Content**
 
-This is set up week by week, in sections of topics. You'll see it depicted below, along with my reflection in the final Reflection Section. 
+*This is set up week by week, in sections of topics. You'll see it depicted below, along with my reflection in the final Reflection Section.* 
 
 
 
